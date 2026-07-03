@@ -1,0 +1,8 @@
+export { default as AboutPage } from './AboutPage'
+export { default as ContactPage } from './ContactPage'
+export { default as DepartmentsPage } from './DepartmentsPage'
+export { default as DoctorDetailsPage } from './DoctorDetailsPage'
+export { default as DoctorsPage } from './DoctorsPage'
+export { default as FaqPage } from './FaqPage'
+export { default as HomePage } from './HomePage'
+export { default as ServicesPage } from './ServicesPage'
